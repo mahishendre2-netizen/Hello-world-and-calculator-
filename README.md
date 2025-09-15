@@ -30,7 +30,7 @@ Calculator functionality: Prompt the user to input two numbers:
 
 Output: Enter number 1: → Input stored in variable a Output: Enter number 2: → Input stored in variable b Perform operations: sum = a + b sub = a - b mul = a * b div = a / b
 
-# 🔵Display results:
+Display results:
 
 # 🔵Output: 
 Sum: sum Output: Subtraction: sub Output: Multiplication: mul Output: Division: div End the program. The program then prints each of the calculations in the format of "Sum:" followed by std::endl to print the result of the calculation on a new line. We conclude with return 0; which indicates successful execution of our program.
